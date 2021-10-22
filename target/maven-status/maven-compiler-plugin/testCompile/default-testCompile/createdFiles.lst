@@ -1,0 +1,3 @@
+paytm\echo\RESTEchoServiceIT.class
+paytm\echo\EchoServiceInServerIT.class
+paytm\echo\TestEchoService.class
